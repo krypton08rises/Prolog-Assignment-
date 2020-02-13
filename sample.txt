@@ -1,0 +1,19 @@
+Input- nooffence(X,76).
+Result- adam1
+
+Input- noffence(Joey,6,82).
+Result- true
+
+Input - ispunished(X,117).
+Result - chandie
+
+Input - ispunishedlikeoffender(mike,Y,114).
+Result - dwight
+
+Input - rightofprivatedefense(parker,jared,106).
+Result - true
+
+Input - ispunished(jordan,117).
+Result - false
+
+
